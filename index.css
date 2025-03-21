@@ -337,6 +337,7 @@ html {
     display:flex;
     min-width:90px;
     height:100%;
+    width:90px;
     justify-content: center;
     align-items: center;
     border-right: 1px solid black;
