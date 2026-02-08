@@ -100,9 +100,13 @@ html {
 #main > #myImg {    
     width:20rem;
     height:20rem;
-    border-radius: 100%;
+    border-radius: 10%;
     align-items: center;
     justify-content: center;
+}
+
+#main > #myImg > img{
+    padding-left:30px;
 }
 
 #main > #mainBox{
